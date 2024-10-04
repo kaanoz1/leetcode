@@ -27,6 +27,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 9   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                               | [Solution](./src/58.cpp)  | [Result](./src/58.png)                |
 | 10  | [Plus One](https://leetcode.com/problems/plus-one)                                                                                     | [Solution](./src/66.cpp)  | [Result](./src/66.png)                |
 | 11  | [Add Binary](https://leetcode.com/problems/add-binary)                                                                                 | [Solution](./src/67.cpp)  | [Result](./src/67.png)                |
+| 12  | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                                                         | [Solution](./src/69.cpp)  | [Result](./src/69.png)                |
 
 ### Medium
 
