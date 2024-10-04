@@ -24,6 +24,9 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 6   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                         | [Solution](./src/21.ts)   | [Result](./src/21.png)                |
 | 7   | [Find The Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Solution](./src/28.java) | [Result](./src/28.png) Bugged result. |
 | 8   | [Search Insert Position](https://https://leetcode.com/problems/search-insert-position/description/)                                    | [Solution](./src/35.cpp)  | [Result](./src/35.png) Bugged result. |
+| 9   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                               | [Solution](./src/58.cpp)  | [Result](./src/58.png)                |
+| 10  | [Plus One](https://leetcode.com/problems/plus-one)                                                                                     | [Solution](./src/66.cpp)  | [Result](./src/66.png)                |
+| 11  | [Add Binary](https://leetcode.com/problems/add-binary)                                                                                 | [Solution](./src/67.cpp)  | [Result](./src/67.png)                |
 
 ### Medium
 
