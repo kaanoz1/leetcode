@@ -29,6 +29,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 11  | [Add Binary](https://leetcode.com/problems/add-binary)                                                                                 | [Solution](./src/67.py)   | [Result](./src/67.png)                |
 | 12  | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                                                         | [Solution](./src/69.c)    | [Result](./src/69.png)                |
 | 13  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                                                       | [Solution](./src/70.py)   | [Result](./src/70.png)                |
+| 14  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)                                 | [Solution](./src/83.py)   | [Result](./src/83.png)                |
 
 ### Medium
 
