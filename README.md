@@ -5,7 +5,7 @@ Welcome to my LeetCode Solutions repository! This collection contains solutions 
 ## Features
 
 - **Sequential Ordering**: Problems are listed in order of increasing difficulty, starting from Easy and progressing to Hard.
-- **Multi-Language Support**: Solutions are implemented in a variety of programming languages to broaden my coding expertise.
+- **Multi-Language Support**: Solutions are implemented in a variety of programming languages to broaden my coding expertise. But nevertheless I try to improve myself on C, C++ and Python3.
 - **Direct Links**: Each problem includes a direct link to its corresponding LeetCode page for easy reference.
 
 - Note : Abbreviation B stands for "probably(?) bugged result".
@@ -34,6 +34,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 14  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)                                 | [Solution](./src/83.py)   | [Result](./src/83.png)    |
 | 15  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                 | [Solution](./src/88.cpp)  | [Result](./src/88.png) B  |
 | 16  | [Same Tree](https://leetcode.com/problems/same-tree)                                                                                   | [Solution](./src/100.cpp) | [Result](./src/100.png) B |
+| 17  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                                                         | [Solution](./src/101.cpp) | [Result](./src/101.png)   |
 
 ### Medium
 
