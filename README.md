@@ -43,6 +43,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 19  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)                 | [Solution](./src/108.cpp) | [Result](./src/108.png)   |
 | 20  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)                                                             | [Solution](./src/110.cpp) | [Result](./src/110.png) B |
 | 21  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)                                             | [Solution](./src/111.cpp) | [Result](./src/111.png)   |
+| 22  | [Path Sum](https://leetcode.com/problems/path-sum)                                                                                     | [Solution](./src/112.cpp) | [Result](./src/112.png)   |
 
 ### Medium
 
