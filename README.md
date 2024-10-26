@@ -2,6 +2,10 @@
 
 Welcome to my LeetCode Solutions repository! This collection contains solutions to various [LeetCode](https://leetcode.com/) problems that I have solved. The problems are organized from **Easy** to **Hard** to showcase my progress and enhance my problem-solving skills.
 
+## Repository Structure
+
+Each problem is contained within the `src` directory. Inside this directory, you will find the solution files and corresponding result images.
+
 ## Features
 
 - **Sequential Ordering**: Problems are listed in order of increasing difficulty, starting from Easy and progressing to Hard.
@@ -37,6 +41,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 17  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                                                         | [Solution](./src/101.cpp) | [Result](./src/101.png)   |
 | 18  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                            | [Solution](./src/104.cpp) | [Result](./src/104.png)   |
 | 19  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)                 | [Solution](./src/108.cpp) | [Result](./src/108.png)   |
+| 20  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)                                                             | [Solution](./src/110.cpp) | [Result](./src/110.png)   |
 
 ### Medium
 
@@ -45,7 +50,3 @@ Not solved any problems yet.
 ### Hard
 
 Not solved any problems yet.
-
-## Repository Structure
-
-Each problem is contained within the `src` directory. Inside this directory, you will find the solution files and corresponding result images.
