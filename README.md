@@ -46,6 +46,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 22  | [Path Sum](https://leetcode.com/problems/path-sum)                                                                                     | [Solution](./src/112.cpp) | [Result](./src/112.png)   |
 | 23  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                    | [Solution](./src/118.cpp) | [Result](./src/118.png) B |
 | 24  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                                                              | [Solution](./src/119.cpp) | [Result](./src/119.png) B |
+| 25  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                       | [Solution](./src/121.cpp) | [Result](./src/121.png)   |
 
 ### Medium
 
