@@ -45,6 +45,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 21  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)                                             | [Solution](./src/111.cpp) | [Result](./src/111.png)   |
 | 22  | [Path Sum](https://leetcode.com/problems/path-sum)                                                                                     | [Solution](./src/112.cpp) | [Result](./src/112.png)   |
 | 23  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                    | [Solution](./src/118.cpp) | [Result](./src/118.png) B |
+| 24  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                                                              | [Solution](./src/119.cpp) | [Result](./src/119.png) B |
 
 ### Medium
 
