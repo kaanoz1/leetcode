@@ -50,6 +50,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 26  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                     | [Solution](./src/125.cpp) | [Result](./src/125.png)   |
 | 27  | [Single Number](https://leetcode.com/problems/single-number)                                                                           | [Solution](./src/136.cpp) | [Result](./src/136.png)   |
 | 28  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                                                   | [Solution](./src/141.cpp) | [Result](./src/141.png)   |
+| 29  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)                                         | [Solution](./src/144.cpp) | [Result](./src/144.png)   |
 
 ### Medium
 
