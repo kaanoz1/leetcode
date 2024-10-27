@@ -51,6 +51,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 27  | [Single Number](https://leetcode.com/problems/single-number)                                                                           | [Solution](./src/136.cpp) | [Result](./src/136.png)   |
 | 28  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                                                   | [Solution](./src/141.cpp) | [Result](./src/141.png)   |
 | 29  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)                                         | [Solution](./src/144.cpp) | [Result](./src/144.png)   |
+| 30  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                       | [Solution](./src/145.cpp) | [Result](./src/145.png) B |
 
 ### Medium
 
