@@ -48,6 +48,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 24  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)                                                              | [Solution](./src/119.cpp) | [Result](./src/119.png) B |
 | 25  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                       | [Solution](./src/121.cpp) | [Result](./src/121.png)   |
 | 26  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                     | [Solution](./src/125.cpp) | [Result](./src/125.png)   |
+| 27  | [Single Number](https://leetcode.com/problems/single-number)                                                                           | [Solution](./src/136.cpp) | [Result](./src/136.png)   |
 
 ### Medium
 
