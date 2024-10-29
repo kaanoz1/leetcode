@@ -55,6 +55,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 31  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)                                     | [Solution](./src/160.cpp) | [Result](./src/160.png) B |
 | 32  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                                                     | [Solution](./src/168.cpp) | [Result](./src/168.png) B |
 | 33  | [Majority Element](https://leetcode.com/problems/majority-element/excel-sheet-column-title)                                            | [Solution](./src/169.cpp) | [Result](./src/169.png)   |
+| 34  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                                                   | [Solution](./src/171.cpp) | [Result](./src/171.png)   |
 
 ### Medium
 
