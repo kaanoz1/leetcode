@@ -54,6 +54,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 30  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)                                       | [Solution](./src/145.cpp) | [Result](./src/145.png) B |
 | 31  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)                                     | [Solution](./src/160.cpp) | [Result](./src/160.png) B |
 | 32  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                                                     | [Solution](./src/168.cpp) | [Result](./src/168.png) B |
+| 33  | [Majority Element](https://leetcode.com/problems/majority-element/excel-sheet-column-title)                                            | [Solution](./src/169.cpp) | [Result](./src/169.png)   |
 
 ### Medium
 
