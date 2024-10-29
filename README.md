@@ -58,6 +58,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 34  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                                                   | [Solution](./src/171.cpp) | [Result](./src/171.png)   |
 | 35  | [Reverse Bits](https://leetcode.com/problems/reverse-bits)                                                                             | [Solution](./src/190.cpp) | [Result](./src/190.png) B |
 | 36  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)                                                                     | [Solution](./src/191.cpp) | [Result](./src/191.png) B |
+| 37  | [Happy Number](https://leetcode.com/problems/happy-number)                                                                             | [Solution](./src/202.cpp) | [Result](./src/202.png)   |
 
 ### Medium
 
