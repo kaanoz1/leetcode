@@ -64,6 +64,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 40  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                                               | [Solution](./src/206.cpp) | [Result](./src/206.png)   |
 | 41  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                 | [Solution](./src/217.cpp) | [Result](./src/217.png)   |
 | 42  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)                                                           | [Solution](./src/219.cpp) | [Result](./src/219.png)   |
+| 43  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)                                                   | [Solution](./src/222.cpp) | [Result](./src/222.png)   |
 
 ### Medium
 
