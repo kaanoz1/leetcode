@@ -8,11 +8,11 @@ Each problem is contained within the `src` directory. Inside this directory, you
 
 ## Features
 
-- **Sequential Ordering**: Problems are listed in order of increasing difficulty, starting from Easy and progressing to Hard.
-- **Multi-Language Support**: Solutions are implemented in a variety of programming languages to broaden my coding expertise. But nevertheless I try to improve myself on C, C++ and Python3.
-- **Direct Links**: Each problem includes a direct link to its corresponding LeetCode page for easy reference.
+- **Language Variety on Solutions**: Solutions are implemented in a variety of programming languages to expand my coding expertise and knowledge. But mostly, I try to improve myself on C, C++ and Python3.
 
-- Note : Abbreviation B stands for "probably(?) bugged result".
+- **Direct Links**: Each problem includes a direct link to its corresponding LeetCode problem page for easy reference to users.
+
+> **Notes** : Problems are listed in order of increasing difficulty, starting from Easy and progressing to Hard. Abbreviation B stands for "probably(?) bugged result".
 
 ## Table of Contents
 
@@ -62,6 +62,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 38  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                                               | [Solution](./src/203.cpp) | [Result](./src/203.png) B |
 | 39  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)                                                                 | [Solution](./src/205.cpp) | [Result](./src/205.png)   |
 | 40  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                                               | [Solution](./src/206.cpp) | [Result](./src/206.png)   |
+| 41  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                 | [Solution](./src/217.cpp) | [Result](./src/217.png)   |
 
 ### Medium
 
