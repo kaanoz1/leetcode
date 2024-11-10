@@ -67,6 +67,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 43  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)                                                   | [Solution](./src/222.cpp) | [Result](./src/222.png)   |
 | 45  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)                                             | [Solution](./src/225.cpp) | [Result](./src/225.png)   |
 | 46  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                                                 | [Solution](./src/226.cpp) | [Result](./src/226.png)   |
+| 47  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)                                                                         | [Solution](./src/228.cpp) | [Result](./src/228.png)   |
 
 ### Medium
 
