@@ -61,6 +61,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 37  | [Happy Number](https://leetcode.com/problems/happy-number)                                                                             | [Solution](./src/202.cpp) | [Result](./src/202.png)   |
 | 38  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                                               | [Solution](./src/203.cpp) | [Result](./src/203.png) B |
 | 39  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)                                                                 | [Solution](./src/205.cpp) | [Result](./src/205.png)   |
+| 40  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                                               | [Solution](./src/206.cpp) | [Result](./src/206.png)   |
 
 ### Medium
 
