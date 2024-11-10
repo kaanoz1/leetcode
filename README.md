@@ -68,7 +68,9 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 
 ### Medium
 
-Not solved any problems yet.
+| #   | Problem Name                                                                                       | Solution                 | Result                 |
+| --- | -------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------- |
+| 44  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](./src/19.cpp) | [Result](./src/19.png) |
 
 ### Hard
 
