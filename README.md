@@ -68,6 +68,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 45  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)                                             | [Solution](./src/225.cpp) | [Result](./src/225.png)   |
 | 46  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                                                 | [Solution](./src/226.cpp) | [Result](./src/226.png)   |
 | 47  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)                                                                         | [Solution](./src/228.cpp) | [Result](./src/228.png)   |
+| 48  | [Power of Two](https://leetcode.com/problems/power-of-two)                                                                             | [Solution](./src/231.cpp) | [Result](./src/231.png)   |
 
 ### Medium
 
