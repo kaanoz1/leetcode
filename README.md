@@ -71,6 +71,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 48  | [Power of Two](https://leetcode.com/problems/power-of-two)                                                                             | [Solution](./src/231.cpp) | [Result](./src/231.png)   |
 | 49  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                            | [Solution](./src/232.cpp) | [Result](./src/232.png)   |
 | 50  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                        | [Solution](./src/234.cpp) | [Result](./src/234.png)   |
+| 51  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                          | [Solution](./src/242.cpp) | [Result](./src/242.png)   |
 
 ### Medium
 
