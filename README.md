@@ -70,6 +70,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 47  | [Summary Ranges](https://leetcode.com/problems/summary-ranges)                                                                         | [Solution](./src/228.cpp) | [Result](./src/228.png)   |
 | 48  | [Power of Two](https://leetcode.com/problems/power-of-two)                                                                             | [Solution](./src/231.cpp) | [Result](./src/231.png)   |
 | 49  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                            | [Solution](./src/232.cpp) | [Result](./src/232.png)   |
+| 50  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                        | [Solution](./src/234.cpp) | [Result](./src/234.png)   |
 
 ### Medium
 
