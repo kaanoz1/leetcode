@@ -73,6 +73,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 50  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                        | [Solution](./src/234.cpp) | [Result](./src/234.png)   |
 | 51  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                          | [Solution](./src/242.cpp) | [Result](./src/242.png)   |
 | 52  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)                                                                          | [Solution](./src/257.cpp) | [Result](./src/257.png)   |
+| 53  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                          | [Solution](./src/258.add-digits.cpp) | [Result](./src/258.add-digits.png)   |
 
 ### Medium
 
