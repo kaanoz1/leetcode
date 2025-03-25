@@ -77,6 +77,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 54  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                          | [Solution](./src/263.ugly-number.cpp) | [Result](./src/263.ugly-number.png)   |
 | 55  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                          | [Solution](./src/268.missing-number.cpp) | [Result](./src/268.missing-number.png)   |
 | 56  | [First Bad Version](https://leetcode.com/problems/first-bad-version)                                                                          | [Solution](./src/278.first-bad-version.cpp) | [Result](./src/278.first-bad-version.png)   |
+| 57  | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                          | [Solution](./src/283.move-zeroes.cpp) | [Result](./src/283.move-zeroes.png)   |
 
 ### Medium
 
