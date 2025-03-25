@@ -75,6 +75,7 @@ Below is a list of **Easy** level problems, including the problem name (linked t
 | 52  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)                                                                          | [Solution](./src/257.cpp) | [Result](./src/257.png)   |
 | 53  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                          | [Solution](./src/258.add-digits.cpp) | [Result](./src/258.add-digits.png)   |
 | 54  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                          | [Solution](./src/263.ugly-number.cpp) | [Result](./src/263.ugly-number.png)   |
+| 55  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                          | [Solution](./src/268.missing-number.cpp) | [Result](./src/268.missing-number.png)   |
 
 ### Medium
 
